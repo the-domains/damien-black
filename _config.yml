@@ -1,0 +1,28 @@
+name: Damien Black
+favicon: null
+layout_spectrum: 0.24492935184389353
+typography_spectrum: 0.09119044011458755
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.16041131573729217
+  lightness: 0.044136215932667255
+  saturation: 0.6795091836247593
+  rhythmicContrast: 0.4763688030652702
+purpose: []
